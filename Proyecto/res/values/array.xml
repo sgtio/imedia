@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorias">
+        <item>Books</item>
+        <item>Music</item>
+        <item>Shows</item>
+        <item>Movies</item>
+    </string-array>
+</resources>

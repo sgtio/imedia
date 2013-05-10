@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iMedia</string>
+    <string name="action_settings">Configuración</string>
+    <string name="movie_button">Películas</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="log_in">Log In</string>
+    <string name="user">Usuario</string>
+    <string name="_olvido_su_pass">¿Olvidó su contraseña?</string>
+    <string name="remember">Recordarme</string>
+    <string name="password">Contraseña</string>
+    <string name="double_back">Pulse ATRÁS de nuevo para salir</string>
+    <string name="element_description">Descripción del elemento</string>
+    <string name="email">Email</string>
+    <string name="email_failed">No se ha podido mandar el correo. Quizás no tengas ninguna aplicación de correo.</string>
+    <string name="repeat_password">Repita contraseña</string>
+    <string name="accept_and_register">Aceptar y registrar</string>
+    <string name="picture_of_element">Foto del elemento</string>
+    <string name="seen_pending">Visto/Pendiente</string>
+    <string name="rating">Puntuación</string>
+    <string name="category">Categoría</string>
+    <string name="app_logo">Logo de la app</string>
+    <string name="login">Login</string>
+    <string name="register">Registrar</string>
+    <string name="term_to_search">Término a buscar</string>
+    <string name="search">Buscar</string>
+    <string name="music_category">Categoría de música</string>
+    <string name="books_category">Categoría de libros</string>
+    <string name="movies_category">Categoría de películas</string>
+    <string name="shows_category">Categoría de series</string>
+	<string name="title_activity_edit">Editar</string>
+    <string name="name">Nombre</string>
+    <string name="picture_path">Directorio de la foto</string>
+    <string name="comments">Comentarios</string>
+    <string name="description">Descripción</string>
+    <string name="edit_and_send">Editar y enviar</string>
+    <string name="datasent">Datos enviados correctamente</string>
+    <string name="datanotsent">El elemento ya existe. No se ha agregado</string>
+    <string name="allTab">TODO</string>
+    <string name="musicTab">MÚSICA</string>
+    <string name="moviesTab">PELIS</string>
+    <string name="showsTab">SERIES</string>
+    <string name="booksTab">LIBROS</string>
+    <string name="userExists">El usuario o email ya existen</string>
+	<string name="passMismatch">Las contraseñas no coinciden</string>
+	<string name="userPassError">La combinación de usuario y contraseña introducida es incorrecta, pruebe de nuevo</string>
+	<string name="delete_item">Eliminar Ficha</string>
+	<string name="deleteTitle">Eliminar Elemento</string>
+	<string name="deleteMessage">¿Está seguro de que quiere eliminar el elemento actual?</string>
+	<string name="yes">Sí</string>
+	<string name="no">No</string>
+	<string name="userCreated">Usuario Creado</string>
+	<string name="edit">Editar</string>
+	<string name="about_help">Acerca de y Ayuda</string>
+	<string name="help">AYUDA DE LA APLICACIÓN: \n
+		¿Cuántas veces has estado en casa, sin nada que hacer? \n
+		Te apetece leer un libro, pero no sabes cual... O quizás una serie o una película.. \n
+		iMedia es una aplicación social en la que puedes buscar todo tipo de multimedia y ver sus resúmenes, lo qué opina la gente. Incluso puedes marcar si has visto alguna película o serie, puntuarla o dar tu opinión. \n
+		Más aun, si eres autor de un libro, o quizás de una canción etc. puedes colgar en la aplicación una ficha para que los demás usuarios valoren tu obra.\n \n 
+		INSTRUCCIONES DE USO:\n
+		Tras registrarte como usuario de la aplicación, dispones de una biblioteca particular en la que se guardan los elementos que has visto, clasificados según si son peliculas, libros, música o series de TV. \n
+		Por otra parte, también puedes buscar en la base de datos un elemento, y seleccionarlo para ver su ficha. \n
+		¡Ah! y si no encuentras lo que estás buscando, siempre puedes crear la ficha tú mismo. \n</string>
+	<string name="about_us">Acerca de</string>
+	<string name="about_us_msg">iMedia v1.0 (beta)   \n fecha: 2013 \n Autores:\n\n - Enrique García Gutierrez\n - Sergio Ruiz Peña \n\n\n Gracias por usar nuestra aplicación</string>
+	<string name="found_bug">¿Encontraste algún fallo?\n¡Mándanos un email!</string>
+    <string name="element_name">Nombre del Elemento</string>
+	<string name="element_category">Categ</string>
+	
+</resources>
